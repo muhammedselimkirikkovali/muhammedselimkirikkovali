@@ -3,7 +3,7 @@
 <!--
 **muhammedselimkirikkovali/muhammedselimkirikkovali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm currently working on React.js<br>I'm currently learning Node.js and Go
+I'm currently working on React.js
 
 
 ## 🌐 Socials:
